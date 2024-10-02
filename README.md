@@ -1,4 +1,4 @@
-# ClimaSence-
+# ClimaSence
 
 
 Project Overview: Clima Sence is a comprehensive weather detection application that provides accurate weather forecasts for metro cities around the globe. The core purpose of this project is to offer reliable weather information with precision, ensuring minimal errors in forecasts.
